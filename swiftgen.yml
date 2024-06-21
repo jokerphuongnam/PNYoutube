@@ -1,0 +1,33 @@
+strings:
+  inputs:
+    - PNYoutubeApp/Resources/Localizations/en.lproj
+  filter:
+    - .+\.strings$
+  outputs:
+    templateName: structured-swift5
+    params:
+      publicAccess: true
+      enumName: Strings
+    output: PNYoutubeApp/Generated/Strings+Generated.swift
+
+files:
+  inputs:
+    - PNYoutubeApp/Resources/LottieAnimations
+  filter: .+\.*$
+  outputs:
+    templateName: structured-swift5
+    params:
+      publicAccess: true
+      enumName: Files
+    output: PNYoutubeApp/Generated/Files+Generated.swift
+
+plist:
+  inputs:
+    - PNYoutubeApp/Configs/Infos/PNYoutube.App.Dev-Info.plist
+  outputs:
+#    templateName: runtime-swift5
+    templatePath: SwiftGen/custom-template/plist/key-values-runtime-swift5.stencil
+    params:
+      publicAccess: true
+      enumName: Plists
+    output: PNYoutubeApp/Generated/Plists+Generated.swift

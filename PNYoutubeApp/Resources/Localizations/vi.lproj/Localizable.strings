@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  PNYoutube
+
+  Created by P. Nam on 18/06/2024.
+  
+*/
+
+"PNYoutube.Common.1_month_ago_title" = "1 tháng trước";
+"PNYoutube.Common.months_ago_title" = "%d tháng trước";
+"PNYoutube.Common.1_day_ago_title" = "1 ngày trước";
+"PNYoutube.Common.days_ago_title" = "%d ngày trước";
+"PNYoutube.Common.1_hour_ago_title" = "1 giờ trước";
+"PNYoutube.Common.hours_ago_title" = "%d giờ trước";
+"PNYoutube.Common.1_min_ago_title" = "1 phút trước";
+"PNYoutube.Common.mins_ago_title" = "%d phút trước";
+"PNYoutube.HomePage.leading_title" = "Xịn";
+"PNYoutube.HomePage.shorts_title" = "Ngắn";

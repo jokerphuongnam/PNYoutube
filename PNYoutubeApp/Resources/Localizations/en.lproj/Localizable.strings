@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  PNYoutube
+
+  Created by P. Nam on 18/06/2024.
+  
+*/
+
+"PNYoutube.Common.1_month_ago_title" = "1 month ago";
+"PNYoutube.Common.months_ago_title" = "%d months ago";
+"PNYoutube.Common.1_day_ago_title" = "1 day ago";
+"PNYoutube.Common.day_agos_title" = "%d days ago";
+"PNYoutube.Common.1_hour_ago_title" = "1 hour ago";
+"PNYoutube.Common.hours_ago_title" = "%d hours ago";
+"PNYoutube.Common.1_min_ago_title" = "1 minute ago";
+"PNYoutube.Common.mins_ago_title" = "%d minutes ago";
+"PNYoutube.HomePage.leading_title" = "Premium";
+"PNYoutube.HomePage.shorts_title" = "Shorts";

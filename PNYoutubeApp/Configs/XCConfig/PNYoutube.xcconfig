@@ -1,0 +1,14 @@
+//
+//  PNYoutube-Dev.xcconfig
+//  PNYoutube
+//
+//  Created by P. Nam on 18/06/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL =
+YOUTUBE_V3 =
+API_YOUTUBE_KEY =
+INNER_YOUTUBE_KEY =

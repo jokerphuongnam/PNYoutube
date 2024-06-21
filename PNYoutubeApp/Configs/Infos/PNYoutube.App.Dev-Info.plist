@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>XCConfig</key>
+        <dict>
+            <key>BASE_URL</key>
+            <string>$(BASE_URL)</string>
+            <key>YOUTUBE_V3</key>
+            <string>$(YOUTUBE_V3)</string>
+            <key>API_YOUTUBE_KEY</key>
+            <string>$(API_YOUTUBE_KEY)</string>
+            <key>INNER_YOUTUBE_KEY</key>
+            <string>$(INNER_YOUTUBE_KEY)</string>
+            <key>INNER_YOUTUBE_KEY</key>
+            <string>$(INNER_YOUTUBE_KEY)</string>
+        </dict>
+        <key>UIWindowSceneSessionRoleApplication</key>
+        <array>
+            <dict>
+                <key>UISceneConfigurationName</key>
+                <string>Default Configuration</string>
+                <key>UISceneDelegateClassName</key>
+                <string>$(PRODUCT_MODULE_NAME).PNSceneDelegate</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
